@@ -12,8 +12,8 @@ Answer:
 """
 
 
-
-model = OllamaLLM(model="phi3")
+#import your model in (model = "{your_model}"!
+model = OllamaLLM(model="")
 prompt = ChatPromptTemplate.from_template(template)
 chain = prompt | model 
 

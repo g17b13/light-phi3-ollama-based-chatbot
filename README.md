@@ -19,10 +19,14 @@ This project is a simple implementation of an Ollama-based LLM (Large Language M
 2. Install dependencies:
     LangChain & LangchainCorePrompts, so they import for an easier user experiance.
 
-4. Install OLLAMA based on your OS.
+3. Install OLLAMA based on your OS.
 
-5. Install your most well-suited module & run it in the terminal to start it for the first time!
-
+4. Install your most well-suited module & run it in the terminal to start it for the first time!
+5. ```bash
+   ollama run
+   ```
+   (check out available models in 
+https://github.com/ollama/ollama)
 6. Run the chatbot:  
     ```bash
     python main.py

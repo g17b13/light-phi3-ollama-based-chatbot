@@ -21,7 +21,9 @@ This project is a simple implementation of an Ollama-based LLM (Large Language M
 
 4. Install OLLAMA based on your OS.
 
-3. Run the chatbot:  
+5. Install your most well-suited module & run it in the terminal to start it for the first time!
+
+6. Run the chatbot:  
     ```bash
     python main.py
     ```
